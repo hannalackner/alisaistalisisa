@@ -1,0 +1,15 @@
+C:\Users\Hanna\source\repos\Git\fahrzeugeOOP\bin\Debug\net6.0\fahrzeugeOOP.exe
+C:\Users\Hanna\source\repos\Git\fahrzeugeOOP\bin\Debug\net6.0\fahrzeugeOOP.deps.json
+C:\Users\Hanna\source\repos\Git\fahrzeugeOOP\bin\Debug\net6.0\fahrzeugeOOP.runtimeconfig.json
+C:\Users\Hanna\source\repos\Git\fahrzeugeOOP\bin\Debug\net6.0\fahrzeugeOOP.dll
+C:\Users\Hanna\source\repos\Git\fahrzeugeOOP\bin\Debug\net6.0\ref\fahrzeugeOOP.dll
+C:\Users\Hanna\source\repos\Git\fahrzeugeOOP\bin\Debug\net6.0\fahrzeugeOOP.pdb
+C:\Users\Hanna\source\repos\Git\fahrzeugeOOP\obj\Debug\net6.0\fahrzeugeOOP.csproj.AssemblyReference.cache
+C:\Users\Hanna\source\repos\Git\fahrzeugeOOP\obj\Debug\net6.0\fahrzeugeOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hanna\source\repos\Git\fahrzeugeOOP\obj\Debug\net6.0\fahrzeugeOOP.AssemblyInfoInputs.cache
+C:\Users\Hanna\source\repos\Git\fahrzeugeOOP\obj\Debug\net6.0\fahrzeugeOOP.AssemblyInfo.cs
+C:\Users\Hanna\source\repos\Git\fahrzeugeOOP\obj\Debug\net6.0\fahrzeugeOOP.csproj.CoreCompileInputs.cache
+C:\Users\Hanna\source\repos\Git\fahrzeugeOOP\obj\Debug\net6.0\fahrzeugeOOP.dll
+C:\Users\Hanna\source\repos\Git\fahrzeugeOOP\obj\Debug\net6.0\ref\fahrzeugeOOP.dll
+C:\Users\Hanna\source\repos\Git\fahrzeugeOOP\obj\Debug\net6.0\fahrzeugeOOP.pdb
+C:\Users\Hanna\source\repos\Git\fahrzeugeOOP\obj\Debug\net6.0\fahrzeugeOOP.genruntimeconfig.cache
